@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 class DistanceConverter 
 {
         int miles;
@@ -17,9 +19,19 @@ class DistanceConverter
     
     public static void main(String[] args) 
     {
-        DistanceConverter mycon01 = new DistanceConverter (26,385);
+        Scanner obj01 = new Scanner(System.in);
+
+        System.out.println("Enter your Miles : ");
+        int Ipnutmiles = obj01.nextInt();
+
+        System.out.println("Enter your Yards : ");
+        int Ipnutyards = obj01.nextInt();
+
+        DistanceConverter mycon01 = new DistanceConverter (Ipnutmiles,Ipnutyards);
         mycon01.conversion();
         System.out.println("The Distnce is : " + mycon01.kilometers + " km");
+
+        obj01.close();
     }
 }
 

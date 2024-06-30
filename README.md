@@ -46,5 +46,25 @@ To run this program, you need to have the following installed:
 
 Example:
 
-![image](https://github.com/minuraanuradha/Java-Distance-Converter/assets/112975973/0e687be4-44f4-4575-8c1b-c1366e7b1ab4)
+  ![image](https://github.com/minuraanuradha/Java-Distance-Converter/assets/112975973/e44b9a6e-436d-418b-8e65-e66291f9c525)
+
+
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements or new features, please feel free to fork the repository and submit a pull request.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries, please contact me at [minura.aaj01@gmail.com].
+
 

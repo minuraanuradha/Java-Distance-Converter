@@ -46,8 +46,5 @@ To run this program, you need to have the following installed:
 
 Example:
 
-- Enter your Miles :
-- 5
-- Enter your Yards :
-- 300
-- The Distance is : 8.88478 km
+![image](https://github.com/minuraanuradha/Java-Distance-Converter/assets/112975973/0e687be4-44f4-4575-8c1b-c1366e7b1ab4)
+

@@ -17,8 +17,8 @@ To run this program, you need to have the following installed:
 ### Installation 📥
 1. Clone the repository:
     ```sh
-    git clone https://github.com/minuraanuradha/distance-converter.git
-    cd distance-converter
+    git clone https://github.com/minuraanuradha/Java-Distance-Converter.git
+    cd Java-Distance-Converter
     ```
 
 2. Compile the Java program:
